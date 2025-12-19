@@ -1,4 +1,11 @@
 Multithreading - 
-
 https://www.youtube.com/watch?v=gMmN7wZZezI
 https://www.youtube.com/watch?v=qaSBljS6SZk
+
+Kafka - 
+https://www.youtube.com/watch?v=ooTVs-uVIlw --> Very important -> Spring Boot + Kafka: Master Idempotent Producer to Guarantee Order & Prevent Duplicates!
+https://www.youtube.com/watch?v=udJ0ZJf97w8
+
+Elastic search - 
+https://www.youtube.com/watch?v=bcsII2dGnDU&list=PLA3GkZPtsafYd5m2BXmkL9pjsBKy0FQ2X
+https://github.com/kasramp/Spring-Data-ElasticSearch-Example/blob/master/docker-compose.yml
