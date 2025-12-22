@@ -3,6 +3,7 @@ Resume Building -
 2)Helm
 3)Ingress + Spring boot + NGINX
 4)RDS Metric export monitor AWS cloudwatch
+5)CheckMarx code scan
 
 
 Multithreading - 
