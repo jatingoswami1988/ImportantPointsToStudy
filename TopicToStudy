@@ -4,6 +4,8 @@ Resume Building -
 3)Ingress + Spring boot + NGINX
 4)RDS Metric export monitor AWS cloudwatch
 5)CheckMarx code scan
+6)JWT Token
+7)Opentelemetry - Grafana Cloud Service
 
 
 Multithreading - 
