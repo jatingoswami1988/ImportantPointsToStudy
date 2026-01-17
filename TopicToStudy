@@ -26,6 +26,7 @@ Opentelemetry -
 https://www.youtube.com/watch?v=4YjaR-c0Cjc&list=PLLMxXO6kMiNg6EcNCx6C6pydmgUlDDcZY&index=7
 https://github.com/nlinhvu/opentelemetry-order-service-2023/blob/main/docker-compose.yml
 https://github.com/DevProblems/springboot-opentelemetry-jaeger/blob/master/docker-compose.yml
+https://github.com/ashenwgt/springboot-observability-grafana-prometheus-tempo-loki/blob/develop/docker/grafana/datasource.yml
 
 To Learn -
 Create master slave architecture on AWS RDS Mysql
